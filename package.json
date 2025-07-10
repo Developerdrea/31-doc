@@ -1,0 +1,22 @@
+{
+  "name": "31-doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developerdrea/31-doc.git"
+  },
+  "author": "Enebechi Andrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developerdrea/31-doc/issues"
+  },
+  "homepage": "https://github.com/Developerdrea/31-doc#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
